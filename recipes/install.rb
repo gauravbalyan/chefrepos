@@ -1,5 +1,3 @@
-
-
 #servername1 = data_bag("server")
 server = data_bag_item("server","pkg")
 serverVal = server["server"]

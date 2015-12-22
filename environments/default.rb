@@ -1,3 +1,3 @@
-name 'test'
+name 'default'
 description 'The test environment'
-cookbook_versions  'couchdb' => '= 0.0.1'
+cookbook_versions  'awscloudwatch' => '= 0.0.1'
