@@ -1,6 +1,5 @@
-template "/tmp/cwlogs.cfg" do
-  cookbook "logs"
+
+template "/var/www/html/index.html" do
   source "cwlogs.cfg.erb"
-  owner "ec2-user"
-  mode 0644
+  #mode 0644
 end

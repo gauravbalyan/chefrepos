@@ -1,0 +1,12 @@
+{
+	"id": "serverId",
+	"serverName": [{
+		"id": "pkg",
+		"package": "httpd"
+
+	}, {
+		"id": "pkg1",
+		"package": "apache"
+
+	}]
+}
