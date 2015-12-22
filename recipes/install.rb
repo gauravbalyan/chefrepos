@@ -1,4 +1,4 @@
-directory "/opt/aws/cloudwatch" do
+
 directory "/opt/aws/cloudwatch" do
   recursive true
 end
