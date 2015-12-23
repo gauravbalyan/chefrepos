@@ -1,5 +1,6 @@
 
-template "/var/www/html/index.html" do
+template "/usr/share/nginx/html" do
   source "cwlogs.cfg.erb"
-  #mode 0644
+  force_unlink true
+  mode 0644
 end
