@@ -1,0 +1,20 @@
+{
+  "chef":{
+    "chef_server_url":"https://api.chef.io/organizations/eits",
+    "validation_client_name":"eits-validator",
+    "validation_key_path":"/Users/gauravbalyan/Documents/Cloud/chef-repo/.chef/eits-validator.pem",
+    "client_key":"/Users/gauravbalyan/Documents/Cloud/chef-repo/.chef/gauravbalyan.pem",
+    "node_name":"gauravbalyan"
+  },
+  "cookbook":{
+    "copyright":"Gaurav Balyan",
+    "email":"gauravbaali@gmail.com",
+    "license":"reserved"
+  },
+  "allowed_licenses":[],
+  "raise_license_exception":false,
+
+  "ssl":{
+    "verify":true
+  }
+}

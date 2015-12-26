@@ -1,0 +1,7 @@
+DEPENDENCIES
+  awscloudwatch
+    path: .
+    metadata: true
+
+GRAPH
+  awscloudwatch (0.0.1)
